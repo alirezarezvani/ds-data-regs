@@ -1,0 +1,11 @@
+{
+    "id": "THREADS",
+    "name": "Threads",
+    "categories": ["SOCIAL"],
+    "organization": "THREADS",
+    "iconUrl": "https://adzviser.com/assets/images/threadsInsights.svg",
+    "sourceUrl": "https://www.threads.net",
+    "dataVisibility": [
+        "PRIVATE"
+    ]
+}

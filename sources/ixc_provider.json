@@ -1,0 +1,10 @@
+{
+  "id": "IXC_PROVIDER",
+  "name": "IXC Provider",
+  "categories": ["API"],
+  "organization": "IXC_SOFT",
+  "iconUrl":
+    "https://cloud.ixcsoft.com.br/thumbnail/d5665087aede46c7a8a1/1024/ixclogo.png",
+  "sourceUrl": "https://www.ixcsoft.com.br",
+  "dataVisibility": ["PRIVATE"]
+}
